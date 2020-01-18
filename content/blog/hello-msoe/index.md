@@ -1,6 +1,6 @@
 ---
 title: Hello MSOE
-date: "2020-01-18T22:12:03.284Z"
+date: "2020-01-18T12:12:03.284Z"
 description: "Hello MSOE"
 ---
 
